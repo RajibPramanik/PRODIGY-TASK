@@ -6,7 +6,6 @@ This program extracts product information such as names, prices, and ratings fro
 ## Features
 Scrape Product Data: Extracts product names, prices, and ratings from a selected e-commerce website.<br>
 Store Data in CSV: Saves the scraped product data into a structured CSV file for easy use and analysis.<br>
-Customizable: You can change the target URL (website) to scrape any publicly available product listing.<br>
 
 ## Technologies Used
 Java<br>
