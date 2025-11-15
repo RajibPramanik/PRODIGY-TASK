@@ -4,13 +4,6 @@
 This repository contains the projects and work completed during the **Software Development Internship** at **Prodigy InfoTech** from **1st November 2025** to **30th November 2025**. The internship offers an opportunity to work on real-world projects, build practical skills, and contribute to the development of software solutions. This program focuses on learning and applying **software development** skills in a collaborative environment.
 
 ---------
-## Internship Details
-* **Position**: Software Development Intern
-* **Company**: Prodigy InfoTech
-* **Internship Period**: 1st November 2025 to 30th November 2025
-* **Program Type**: Educational, non-compensated
-* **Duration**: 1 Month
---------
 ## Internship Goals and Objectives
 The primary objective of this internship is to gain hands-on experience in software development by working on a variety of tasks and projects. During the internship, I aim to:
 * Develop practical skills in **Java** and **software development**.
