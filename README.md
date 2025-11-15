@@ -1,6 +1,6 @@
 # 🚀 ProDigy Infotech Internship Tasks📈🪴
 
-This repository contains solutions for the tasks given during the internship at ProDigy Infotech. The tasks involve building simple programs and projects in Java and Python, ranging from basic algorithms to web scraping. Below is a breakdown of each task, including its description and implementation.
+This repository contains solutions for the tasks given during the internship at ProDigy Infotech. The tasks involve building simple programs and projects in Java, ranging from basic algorithms to web scraping. Below is a breakdown of each task, including its description and implementation.
 
 ## Table of Contents
 Task 1: Temperature Conversion Program<br>
